@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eljazary
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Machine Learning Projects 
+- 👋 Hi, I’m @Mohamed Gamal 
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Deep Learning 
+- 💞️ I’m looking to collaborate on Machine Learning  and deep Learning Projects 
 - 📫 How to reach me ...
 
 <!---
